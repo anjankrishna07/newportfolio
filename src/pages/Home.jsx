@@ -58,7 +58,7 @@ const Home = () => {
             whileHover={{ scale: 1.05 }}
           >
             <span className="pulse-dot"></span>
-            <span>Currently: ML Engineer/Data Engineer @ Chyantech (Los Angeles)</span>
+            <span>Currently: Data Scientist/ML Engineer @ Chyantech (Los Angeles)</span>
           </motion.div>
           
           <motion.h1
