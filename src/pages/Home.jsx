@@ -58,7 +58,7 @@ const Home = () => {
             whileHover={{ scale: 1.05 }}
           >
             <span className="pulse-dot"></span>
-            <span>Currently: ML Engineer @ Chyantech (Los Angeles)</span>
+            <span>Currently: ML Engineer/Data Engineer @ Chyantech (Los Angeles)</span>
           </motion.div>
           
           <motion.h1
@@ -90,7 +90,7 @@ const Home = () => {
               </motion.span>
             </Link>
             <a
-              href="mailto:krishnaub2@gmail.com"
+              href="mailto:krishkandimalla07@gmail.com"
               className="btn btn-secondary"
             >
               <motion.span
