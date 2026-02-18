@@ -36,7 +36,7 @@ const Navbar = () => {
             whileHover={{ scale: 1.1, rotate: 5 }}
             whileTap={{ scale: 0.95 }}
           >
-            AK
+            ANI
           </motion.span>
         </Link>
         <ul className="nav-links">
