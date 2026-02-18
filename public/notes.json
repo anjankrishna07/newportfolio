@@ -1,0 +1,23 @@
+[
+    {
+      "title": "What I actually enjoy about MLOps",
+      "tag": "mlops",
+      "date": "2025-01-10",
+      "preview": "People think MLOps is just YAML and sadness. For me, it's where models meet reality...",
+      "content": "People often treat MLOps as \"just wiring things together\", but that's exactly the part I enjoy.\n\nI like:\n• taking a messy notebook and turning it into a repeatable pipeline,\n• making sure metrics don't silently drift,\n• and giving models enough logging so future-me can actually debug.\n\nGood MLOps feels like being a translator between research and production: you speak both."
+    },
+    {
+      "title": "Tiny rules for training pipelines",
+      "tag": "training",
+      "date": "2025-01-05",
+      "preview": "A few boring-sounding habits that have saved me hours of debugging later...",
+      "content": "Some small rules I try to follow when building training code:\n\n1. Always log data shapes and a couple of example batches.\n2. Keep config in one place (YAML or JSON), not scattered across scripts.\n3. Save the exact commit hash + hyperparams with every trained model.\n4. Treat data preprocessing as a versioned, testable component.\n\nNone of these are fancy, but they compound over time."
+    },
+    {
+      "title": "Does using AI is killing your thinking ability",
+      "tag": "Ethics",
+      "date": "2026-02-18",
+      "preview": "Recent study from MIT found that using AI is killing your thinking ability",
+      "content": "Before AI chatbots we used to think about our problems whether it is related to work, personal life, or anything else. But now we are using AI chatbots to get answers to our problems and we are not thinking about the problems ourselves. This is killing our thinking ability. A new initiation is started to limit the usage of chatbots which is know as AI detox, where people stop using chatbots for a while to think the solutions by themselves. The usage of chatbots is so worse that we even cant think to find a place to get a cup of coffee without asking gpt's suggestion"
+    }
+  ]
