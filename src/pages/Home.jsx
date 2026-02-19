@@ -149,18 +149,32 @@ const Home = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <p>
-                I'm <strong>Anjan Krishna</strong>, a machine learning engineer originally from India and
-                now based in Los Angeles. I first fell in love with ML during my undergrad
-                at SRM University AP, where small computer-vision research projects pulled me deeper into
-                the world of deep learning. That passion carried through my Data Science master's at
-                SUNY Buffalo, and eventually shaped my path into building practical,
-                production-ready ML systems.
+                I'm Anjan Krishna, ML engineer, fitness geek, and a man of very specific priorities. 
+                Originally from India, now based in Los Angeles, and perpetually one arXiv paper away from 
+                losing track of time entirely.
               </p>
               <p style={{ marginTop: '1.5rem' }}>
-                On weekdays during my free time you'll usually find me reading the latest arXiv papers;
-                on weekends, I try to reproduce the results, benchmark models, and explore
-                ideas that catch my curiosity. Outside of work, I'm a fitness geek — I love training people, helping them
-                build healthier routines, and experimenting with my own programming and nutrition.
+                My love affair with machine learning started back at SRM University AP, 
+                where a few computer-vision projects basically kidnapped me and I never filed a missing 
+                persons report. That obsession followed me all the way to a Data Science 
+                master's at SUNY Buffalo (yes, Buffalo, no, I did not move there for the weather), and 
+                eventually turned into a full-blown career building production-ready ML systems that actually 
+                work in the real world. Wild concept, I know.
+              </p>
+              <p style={{ marginTop: '1.5rem' }}>
+                On weekdays, you'll find me buried in research papers like it's a personality trait, because it is. 
+                On weekends, I'm that person who actually tries to reproduce the results, benchmark models, and go 
+                down rabbit holes that started as "just a quick experiment." Send help.
+              </p>
+              <p style={{ marginTop: '1.5rem' }}>
+                When I'm not arguing with loss curves, I'm a fitness nerd who loves training people, helping them build 
+                healthier routines, and treating my own programming and nutrition like a never-ending side project with 
+                too many variables.
+              </p>
+              <p style={{ marginTop: '1.5rem' }}>
+                And finally, most importantly, I am a Buffalo Bills fan. Ride or die. I would, without hesitation, trade 
+                a kidney, skip sleep for a week, and probably renegotiate my relationship with physics itself just to see 
+                the Bills win a Super Bowl. It hasn't happened yet. I remain hopeful. Go Bills. 🏈
               </p>
             </motion.div>
             <motion.div
