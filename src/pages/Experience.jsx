@@ -7,7 +7,7 @@ const Experience = () => {
       role: "Machine Learning Engineer",
       company: "Chyantech",
       location: "Los Angeles",
-      period: "2024 – Present",
+      period: "2025 February – Present",
       title: "Building an Enterprise Knowledge Assistant & visual search systems",
       description: `At Chyantech, I've spent most of my time building things that didn't fully exist yet—at least not in a
       usable form. When I first joined, the idea of an "Enterprise Knowledge Assistant" was more of a hope
