@@ -186,17 +186,17 @@ const Home = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               <div className="stat-card">
-                <div className="stat-number">18%</div>
-                <div className="stat-label">Accuracy Improvement</div>
-              </div>
-              <div className="stat-card">
-                <div className="stat-number">25%</div>
-                <div className="stat-label">Latency Reduction</div>
-              </div>
-              <div className="stat-card">
-                <div className="stat-number">96%+</div>
-                <div className="stat-label">Medical Image Accuracy</div>
-              </div>
+              <div className="stat-number">3 AM</div>
+              <div className="stat-label">Late Night Debug Sessions</div>
+            </div>
+            <div className="stat-card">
+              <div className="stat-number">0</div>
+              <div className="stat-label">Skipped Leg Day (allegedly)</div>
+            </div>
+            <div className="stat-card">
+              <div className="stat-number">1</div>
+              <div className="stat-label">Kidney Reserved for Bills Super Bowl</div>
+            </div>
             </motion.div>
           </div>
         </div>
