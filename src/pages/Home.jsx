@@ -149,32 +149,33 @@ const Home = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <p>
-                I'm Anjan Krishna, ML engineer, fitness geek, and a man of very specific priorities. 
-                Originally from India, now based in Los Angeles, and perpetually one arXiv paper away from 
-                losing track of time entirely.
+                I'm Anjan Krishna, you can call me Ani, I'm a ML engineer/Data Scientist, fitness geek, and a man 
+                of very specific priorities. Originally from India, now based in Los Angeles, 
+                and perpetually one arXiv paper away from losing track of time entirely.
               </p>
               <p style={{ marginTop: '1.5rem' }}>
-                My love affair with machine learning started back at SRM University AP, 
-                where a few computer-vision projects basically kidnapped me and I never filed a missing 
-                persons report. That obsession followed me all the way to a Data Science 
-                master's at SUNY Buffalo (yes, Buffalo, no, I did not move there for the weather), and 
-                eventually turned into a full-blown career building production-ready ML systems that actually 
-                work in the real world. Wild concept, I know.
+               My love affair with machine learning started at SRM University AP, where a few computer-vision projects 
+                basically kidnapped me and I never filed a missing persons report. That obsession followed me to a Data 
+                Science master's at SUNY Buffalo (yes, Buffalo, no, I did not move there for the weather), and eventually 
+                turned into a full-blown career building production-ready ML systems that actually work in the real world. 
+                Wild concept, I know.
               </p>
               <p style={{ marginTop: '1.5rem' }}>
-                On weekdays, you'll find me buried in research papers like it's a personality trait, because it is. 
-                On weekends, I'm that person who actually tries to reproduce the results, benchmark models, and go 
-                down rabbit holes that started as "just a quick experiment." Send help.
+               On weekdays, you'll find me buried in research papers like it's a personality trait, because it is. On weekends, 
+                I'm that person who actually tries to reproduce the results, benchmark models, and go down rabbit holes that 
+                started as "just a quick experiment." Send help.
               </p>
               <p style={{ marginTop: '1.5rem' }}>
-                When I'm not arguing with loss curves, I'm a fitness nerd who loves training people, helping them build 
-                healthier routines, and treating my own programming and nutrition like a never-ending side project with 
-                too many variables.
+               When I'm not arguing with loss curves, I'm a fitness nerd who loves training people, working out together, and 
+                helping others build healthier routines. Outside the gym, you'll find me out on a run, hitting the trails, or 
+                cooking something that I will absolutely treat as a variable-controlled experiment. My own programming and 
+                nutrition are a never-ending side project with too many variables, and I wouldn't have it any other way.
               </p>
               <p style={{ marginTop: '1.5rem' }}>
-                And finally, most importantly, I am a Buffalo Bills fan. Ride or die. I would, without hesitation, trade 
-                a kidney, skip sleep for a week, and probably renegotiate my relationship with physics itself just to see 
-                the Bills win a Super Bowl. It hasn't happened yet. I remain hopeful. Go Bills. 🏈
+                Oh, and somewhere between the Buffalo winters and late-night debugging sessions, I picked up another lifelong 
+                affliction. I'm a Buffalo Bills fan. Ride or die, unapologetically, until further notice. Football fans, you are 
+                my people. Unless you're a Chiefs or Patriots fan, in which case, I wish you well, I just wish you well from a 
+                safe distance. 🏈
               </p>
             </motion.div>
             <motion.div
