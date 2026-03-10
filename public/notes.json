@@ -19,5 +19,12 @@
       "date": "2025-09-03",
       "preview": "Recent study from MIT found that using AI is killing your thinking ability",
       "content": "Before AI chatbots we used to think about our problems whether it is related to work, personal life, or anything else. But now we are using AI chatbots to get answers to our problems and we are not thinking about the problems ourselves. This is killing our thinking ability. A new initiation is started to limit the usage of chatbots which is know as AI detox, where people stop using chatbots for a while to think the solutions by themselves. The usage of chatbots is so worse that we even cant think to find a place to get a cup of coffee without asking gpt's suggestion"
+    },
+    {
+      "title": "How AI replacing junior developers affects the long run?",
+      "tag": "Ethics",
+      "date": "2025-09-03",
+      "preview": "Replacing junior developers with AI is not a worthy investment",
+      "content": "Everyone is debating whether AI will replace junior developers, but the real concern might be something deeper: what happens if we stop training future senior developers? As someone who enjoys coding and taking on difficult problems, I believe growth comes from struggling with challenges, failing, debugging, and trying again—much like how machine learning models improve through iterations. If AI starts generating most of the code and system designs while developers simply review the outputs, we risk losing the most important skill that differentiates a senior developer from a junior one: critical thinking. True engineering ability is built through experience—breaking systems, fixing them, and learning from mistakes. Without that process of thinking, failing, and learning, we may not develop real depth in talent; instead, we risk creating a generation of shallow engineers who operate AI tools rather than truly understanding and building systems."
     }
   ]
